@@ -1,0 +1,15 @@
+.maestro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+img{
+    align-items: center;
+    width: 600px;
+}
+
+
+
+
